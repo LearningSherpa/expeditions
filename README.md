@@ -20,5 +20,7 @@ Use these, tweak these, do whatever you want as long as it's non-commerical.
 - We'll review it, give you feedback, and merge it when it is ready!
 - Now you're a contributor! Bask in the glory of your awesomeness!
 
+-----
+
 ![CC BY-NC-SA license](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
