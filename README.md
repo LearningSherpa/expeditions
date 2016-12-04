@@ -4,7 +4,7 @@
 
 Expeditions are the mountains you need to conquer. They are the peaks that inspire you.
 "Web Developer 1" is an example of an Expedition. An Expedition is made of several Elements, 
-along several different themes. Expeditions are meant to challenge you, while giving you 
+along several different themes, thrown together like a mix-tape. Expeditions are meant to challenge you, while giving you 
 the flexibility to learn the things you need.
 
 These Expeditions are all contributed by the community, and are public & open-source. 
