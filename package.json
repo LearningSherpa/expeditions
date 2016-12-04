@@ -1,0 +1,26 @@
+{
+  "name": "learning-sherpa-expeditions",
+  "version": "1.0.0",
+  "description": "Skill Expeditions for LearningSherpa",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LearningSherpa/expeditions.git"
+  },
+  "keywords": [
+    "learningsherpa",
+    "skills",
+    "expeditions",
+    "learning",
+    "curriculum"
+  ],
+  "author": "Jakob Anderson",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "bugs": {
+    "url": "https://github.com/LearningSherpa/expeditions/issues"
+  },
+  "homepage": "https://github.com/LearningSherpa/expeditions#readme"
+}
