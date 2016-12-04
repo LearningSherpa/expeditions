@@ -13,7 +13,7 @@ Use these, tweak these, do whatever you want as long as it's non-commerical.
 ## How to make content
 - See if the topic is already created, or in process
 - Fork this repo
-- Use the content schema & style guide, and follow other Exeditions as examples
+- Use the content schema & style guide, and follow other Expeditions as examples
 - Create your awesome content!
 - Make sure it passes all the tests
 - Make a pull request to this repo
