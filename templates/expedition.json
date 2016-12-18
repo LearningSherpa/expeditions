@@ -1,6 +1,13 @@
 {
   "name": "Web Development I",
   "image": "https://example.com/url",
+  "complete": false,
+  "author": {
+    "name": "Steve McFakename",
+    "github_username": "stevemcfakename",
+    "bitcoin_address": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "email": "xxxx@xxxx.com"
+  },
   "time_est": {
     "min": 10,
     "max": 12

@@ -1,6 +1,7 @@
 {
   "name": "Web Development 1",
   "image": "https://example.com/url",
+  "complete": false,
   "author": {
     "name": "Jakob Anderson",
     "github_username": "spacerockzero",
